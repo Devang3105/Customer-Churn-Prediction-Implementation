@@ -1,0 +1,1410 @@
+Row_Index,Actual_Churn,Predicted_Churn
+455,Not Churned,Not Churned
+2301,Not Churned,Not Churned
+2255,Not Churned,Not Churned
+4527,Not Churned,Not Churned
+3812,Not Churned,Not Churned
+5784,Not Churned,Not Churned
+3635,Not Churned,Not Churned
+3013,Not Churned,Not Churned
+5962,Not Churned,Not Churned
+1628,Churned,Churned
+2088,Not Churned,Not Churned
+1295,Not Churned,Not Churned
+696,Not Churned,Not Churned
+3343,Churned,Churned
+5333,Not Churned,Not Churned
+509,Not Churned,Not Churned
+6154,Not Churned,Not Churned
+2147,Not Churned,Churned
+6536,Not Churned,Not Churned
+5416,Not Churned,Not Churned
+6478,Churned,Churned
+1252,Not Churned,Not Churned
+1620,Not Churned,Churned
+5130,Not Churned,Not Churned
+5444,Not Churned,Not Churned
+4047,Not Churned,Not Churned
+650,Churned,Churned
+6026,Churned,Churned
+6078,Not Churned,Churned
+5407,Churned,Not Churned
+1849,Not Churned,Not Churned
+6986,Not Churned,Not Churned
+4401,Not Churned,Not Churned
+3620,Not Churned,Churned
+336,Churned,Churned
+3686,Not Churned,Not Churned
+882,Churned,Churned
+3768,Not Churned,Not Churned
+6583,Churned,Not Churned
+2397,Churned,Churned
+4914,Not Churned,Churned
+2539,Not Churned,Not Churned
+5453,Not Churned,Not Churned
+1532,Not Churned,Not Churned
+3774,Not Churned,Not Churned
+819,Churned,Churned
+3582,Not Churned,Not Churned
+6145,Not Churned,Not Churned
+3346,Not Churned,Not Churned
+474,Churned,Churned
+1049,Not Churned,Not Churned
+2191,Churned,Churned
+6171,Not Churned,Churned
+4090,Not Churned,Churned
+2281,Not Churned,Not Churned
+6229,Churned,Churned
+5997,Not Churned,Not Churned
+5659,Not Churned,Not Churned
+5649,Not Churned,Not Churned
+2490,Not Churned,Churned
+4976,Not Churned,Not Churned
+4925,Churned,Not Churned
+911,Not Churned,Not Churned
+125,Not Churned,Not Churned
+3243,Churned,Not Churned
+3211,Churned,Churned
+7012,Churned,Not Churned
+3066,Churned,Churned
+5892,Churned,Churned
+5143,Churned,Churned
+4822,Not Churned,Churned
+4513,Not Churned,Churned
+274,Churned,Churned
+4181,Not Churned,Not Churned
+3762,Not Churned,Churned
+1726,Not Churned,Not Churned
+5252,Not Churned,Not Churned
+1432,Churned,Churned
+3275,Not Churned,Not Churned
+4596,Not Churned,Not Churned
+3269,Not Churned,Churned
+1025,Not Churned,Churned
+1549,Churned,Churned
+557,Churned,Churned
+4832,Not Churned,Not Churned
+3909,Not Churned,Not Churned
+6340,Not Churned,Not Churned
+3080,Churned,Churned
+4425,Churned,Churned
+6514,Not Churned,Not Churned
+3834,Churned,Churned
+1473,Not Churned,Not Churned
+2293,Not Churned,Churned
+1976,Churned,Churned
+2282,Churned,Not Churned
+4791,Not Churned,Not Churned
+6519,Not Churned,Not Churned
+6950,Not Churned,Not Churned
+1303,Churned,Churned
+5200,Not Churned,Churned
+2359,Churned,Churned
+2173,Churned,Churned
+208,Not Churned,Not Churned
+1632,Churned,Churned
+989,Churned,Not Churned
+6634,Not Churned,Not Churned
+5751,Not Churned,Not Churned
+1173,Not Churned,Churned
+6358,Not Churned,Not Churned
+3664,Not Churned,Churned
+1082,Not Churned,Churned
+4040,Not Churned,Not Churned
+3220,Not Churned,Not Churned
+6165,Not Churned,Not Churned
+190,Churned,Churned
+4753,Not Churned,Churned
+3340,Churned,Churned
+1194,Not Churned,Not Churned
+1610,Not Churned,Not Churned
+1656,Not Churned,Not Churned
+2198,Not Churned,Not Churned
+1787,Churned,Churned
+2307,Not Churned,Churned
+1568,Not Churned,Not Churned
+5281,Churned,Churned
+6233,Not Churned,Not Churned
+1963,Churned,Churned
+5255,Not Churned,Not Churned
+3631,Churned,Not Churned
+4252,Not Churned,Not Churned
+6316,Churned,Churned
+5039,Churned,Not Churned
+703,Not Churned,Not Churned
+306,Not Churned,Not Churned
+5144,Not Churned,Churned
+6218,Not Churned,Not Churned
+2286,Not Churned,Not Churned
+4864,Not Churned,Churned
+4296,Not Churned,Not Churned
+381,Churned,Not Churned
+1050,Not Churned,Not Churned
+7003,Not Churned,Not Churned
+779,Not Churned,Not Churned
+2404,Not Churned,Not Churned
+3779,Not Churned,Not Churned
+2777,Not Churned,Not Churned
+2786,Not Churned,Not Churned
+109,Churned,Not Churned
+1812,Not Churned,Not Churned
+1201,Not Churned,Churned
+2708,Not Churned,Not Churned
+4136,Not Churned,Not Churned
+6268,Not Churned,Not Churned
+3300,Not Churned,Not Churned
+4938,Churned,Churned
+2413,Not Churned,Not Churned
+4844,Not Churned,Not Churned
+174,Churned,Churned
+2952,Churned,Churned
+2445,Churned,Not Churned
+4917,Not Churned,Not Churned
+2154,Not Churned,Churned
+4260,Not Churned,Not Churned
+1864,Not Churned,Not Churned
+3239,Not Churned,Not Churned
+3535,Churned,Churned
+6591,Not Churned,Not Churned
+3113,Churned,Not Churned
+3424,Not Churned,Not Churned
+4211,Not Churned,Not Churned
+4629,Not Churned,Not Churned
+2151,Churned,Churned
+1799,Not Churned,Not Churned
+2453,Churned,Not Churned
+195,Not Churned,Not Churned
+580,Not Churned,Not Churned
+5709,Not Churned,Not Churned
+2673,Not Churned,Churned
+2616,Not Churned,Not Churned
+4106,Not Churned,Not Churned
+1498,Churned,Churned
+5084,Not Churned,Not Churned
+3967,Churned,Churned
+207,Churned,Not Churned
+2360,Not Churned,Not Churned
+6922,Not Churned,Not Churned
+346,Not Churned,Not Churned
+6983,Churned,Churned
+926,Not Churned,Not Churned
+6100,Not Churned,Not Churned
+2956,Not Churned,Not Churned
+7017,Not Churned,Not Churned
+2634,Churned,Churned
+6528,Not Churned,Churned
+2965,Not Churned,Churned
+3533,Not Churned,Not Churned
+6482,Not Churned,Not Churned
+5664,Not Churned,Not Churned
+2879,Not Churned,Not Churned
+2109,Not Churned,Not Churned
+4505,Not Churned,Not Churned
+3295,Not Churned,Not Churned
+4008,Not Churned,Churned
+3734,Not Churned,Not Churned
+5646,Not Churned,Not Churned
+5127,Not Churned,Not Churned
+4987,Not Churned,Not Churned
+3265,Not Churned,Not Churned
+3440,Not Churned,Not Churned
+5765,Not Churned,Not Churned
+3958,Churned,Churned
+4224,Not Churned,Churned
+3684,Churned,Churned
+1358,Not Churned,Not Churned
+8,Not Churned,Not Churned
+5061,Not Churned,Not Churned
+1107,Not Churned,Not Churned
+4528,Not Churned,Churned
+5245,Churned,Churned
+3650,Churned,Churned
+4761,Not Churned,Not Churned
+2944,Not Churned,Churned
+4600,Not Churned,Not Churned
+1564,Not Churned,Churned
+5297,Not Churned,Not Churned
+1391,Not Churned,Not Churned
+4291,Not Churned,Not Churned
+4612,Not Churned,Not Churned
+4979,Churned,Churned
+362,Not Churned,Not Churned
+1455,Not Churned,Not Churned
+3764,Churned,Churned
+4816,Not Churned,Not Churned
+2670,Not Churned,Not Churned
+2220,Churned,Churned
+3569,Churned,Churned
+6802,Churned,Churned
+151,Not Churned,Not Churned
+3229,Not Churned,Not Churned
+4929,Not Churned,Not Churned
+2951,Churned,Churned
+3068,Churned,Churned
+4439,Not Churned,Churned
+4597,Not Churned,Churned
+3208,Churned,Churned
+2473,Churned,Churned
+5218,Churned,Not Churned
+6294,Not Churned,Not Churned
+1011,Not Churned,Not Churned
+4129,Not Churned,Not Churned
+1773,Not Churned,Not Churned
+4082,Not Churned,Not Churned
+1462,Not Churned,Not Churned
+6747,Not Churned,Not Churned
+5377,Churned,Not Churned
+6757,Not Churned,Not Churned
+3792,Not Churned,Not Churned
+5836,Not Churned,Not Churned
+5707,Not Churned,Not Churned
+2893,Not Churned,Not Churned
+3876,Not Churned,Not Churned
+3006,Not Churned,Not Churned
+745,Not Churned,Churned
+4742,Not Churned,Not Churned
+2837,Churned,Churned
+4477,Churned,Churned
+440,Churned,Churned
+1334,Not Churned,Not Churned
+3733,Not Churned,Not Churned
+5689,Not Churned,Churned
+6800,Not Churned,Not Churned
+4205,Not Churned,Not Churned
+3896,Not Churned,Not Churned
+6180,Not Churned,Not Churned
+3961,Not Churned,Not Churned
+5844,Not Churned,Not Churned
+2292,Churned,Churned
+2237,Not Churned,Churned
+2315,Churned,Churned
+540,Not Churned,Churned
+3576,Not Churned,Not Churned
+5060,Not Churned,Not Churned
+714,Not Churned,Not Churned
+3861,Not Churned,Not Churned
+5040,Not Churned,Not Churned
+2248,Churned,Churned
+4859,Churned,Not Churned
+3730,Not Churned,Not Churned
+2114,Churned,Not Churned
+5539,Not Churned,Not Churned
+4877,Not Churned,Not Churned
+1232,Not Churned,Not Churned
+4268,Not Churned,Not Churned
+5112,Not Churned,Not Churned
+4375,Not Churned,Not Churned
+2509,Not Churned,Not Churned
+916,Not Churned,Not Churned
+498,Churned,Churned
+715,Not Churned,Not Churned
+6556,Not Churned,Not Churned
+3536,Not Churned,Churned
+5604,Churned,Churned
+2932,Not Churned,Not Churned
+3390,Not Churned,Not Churned
+6098,Churned,Churned
+6082,Not Churned,Churned
+1355,Not Churned,Not Churned
+4080,Not Churned,Not Churned
+2703,Not Churned,Churned
+1325,Not Churned,Not Churned
+307,Not Churned,Not Churned
+6044,Not Churned,Churned
+1588,Not Churned,Not Churned
+4032,Not Churned,Churned
+4222,Not Churned,Not Churned
+3962,Not Churned,Not Churned
+5536,Not Churned,Churned
+6484,Not Churned,Not Churned
+1871,Churned,Churned
+3053,Churned,Churned
+2731,Not Churned,Not Churned
+6334,Not Churned,Not Churned
+3095,Churned,Churned
+2877,Not Churned,Not Churned
+7032,Not Churned,Not Churned
+1562,Not Churned,Churned
+3502,Churned,Churned
+4317,Not Churned,Not Churned
+914,Not Churned,Not Churned
+6461,Not Churned,Not Churned
+2923,Not Churned,Not Churned
+1984,Churned,Churned
+5524,Not Churned,Not Churned
+1145,Not Churned,Churned
+5230,Not Churned,Not Churned
+4465,Not Churned,Not Churned
+1047,Churned,Churned
+5037,Not Churned,Not Churned
+5911,Not Churned,Not Churned
+3199,Not Churned,Not Churned
+2945,Not Churned,Not Churned
+705,Churned,Churned
+5667,Not Churned,Not Churned
+4536,Churned,Churned
+6674,Churned,Churned
+6932,Churned,Churned
+6959,Not Churned,Not Churned
+1474,Churned,Churned
+4492,Not Churned,Not Churned
+1078,Churned,Churned
+6129,Not Churned,Not Churned
+3716,Churned,Churned
+7034,Not Churned,Not Churned
+5926,Not Churned,Not Churned
+5859,Not Churned,Not Churned
+3391,Not Churned,Not Churned
+3869,Not Churned,Churned
+2605,Not Churned,Churned
+4660,Not Churned,Not Churned
+2721,Churned,Churned
+1818,Churned,Churned
+5761,Not Churned,Not Churned
+4068,Not Churned,Not Churned
+3802,Not Churned,Churned
+3352,Not Churned,Not Churned
+6481,Churned,Churned
+3002,Not Churned,Churned
+1143,Not Churned,Not Churned
+4169,Not Churned,Churned
+2341,Not Churned,Churned
+5899,Churned,Churned
+4541,Not Churned,Churned
+800,Not Churned,Not Churned
+4210,Not Churned,Not Churned
+2648,Churned,Churned
+6107,Not Churned,Not Churned
+3510,Not Churned,Not Churned
+316,Not Churned,Churned
+2329,Churned,Churned
+1247,Not Churned,Churned
+3469,Not Churned,Not Churned
+6260,Not Churned,Not Churned
+5564,Not Churned,Not Churned
+4229,Not Churned,Not Churned
+1552,Churned,Churned
+5560,Not Churned,Not Churned
+6262,Churned,Churned
+5003,Churned,Churned
+6677,Not Churned,Churned
+72,Churned,Not Churned
+2074,Not Churned,Churned
+829,Not Churned,Churned
+12,Not Churned,Churned
+903,Not Churned,Not Churned
+6137,Not Churned,Churned
+4730,Not Churned,Not Churned
+6408,Not Churned,Not Churned
+5501,Not Churned,Not Churned
+968,Not Churned,Not Churned
+1510,Churned,Churned
+1698,Not Churned,Not Churned
+4246,Not Churned,Not Churned
+1652,Not Churned,Not Churned
+2716,Not Churned,Not Churned
+1302,Not Churned,Not Churned
+2820,Not Churned,Not Churned
+592,Churned,Not Churned
+5873,Not Churned,Not Churned
+4748,Churned,Churned
+6774,Not Churned,Not Churned
+5500,Churned,Churned
+4609,Churned,Churned
+4483,Churned,Churned
+4677,Churned,Churned
+3798,Not Churned,Not Churned
+7,Not Churned,Not Churned
+5774,Not Churned,Not Churned
+4883,Churned,Churned
+3630,Churned,Churned
+2244,Churned,Churned
+183,Not Churned,Not Churned
+5638,Not Churned,Churned
+1051,Not Churned,Churned
+3132,Churned,Churned
+2733,Not Churned,Not Churned
+794,Not Churned,Not Churned
+6348,Not Churned,Not Churned
+5713,Not Churned,Not Churned
+170,Not Churned,Not Churned
+2619,Not Churned,Not Churned
+413,Not Churned,Not Churned
+5216,Not Churned,Churned
+6135,Not Churned,Not Churned
+4017,Not Churned,Not Churned
+4340,Not Churned,Not Churned
+6101,Churned,Churned
+854,Not Churned,Not Churned
+833,Not Churned,Churned
+5814,Not Churned,Not Churned
+1566,Not Churned,Not Churned
+6160,Not Churned,Not Churned
+6847,Churned,Churned
+2093,Not Churned,Churned
+5279,Not Churned,Not Churned
+4056,Churned,Churned
+712,Not Churned,Not Churned
+2494,Not Churned,Not Churned
+1182,Not Churned,Churned
+2150,Not Churned,Not Churned
+3007,Not Churned,Not Churned
+3849,Not Churned,Churned
+3822,Not Churned,Not Churned
+6978,Not Churned,Not Churned
+4544,Not Churned,Not Churned
+6596,Not Churned,Not Churned
+1291,Not Churned,Not Churned
+6126,Churned,Churned
+775,Not Churned,Not Churned
+2149,Not Churned,Not Churned
+5789,Churned,Churned
+4363,Not Churned,Not Churned
+2158,Churned,Churned
+2491,Not Churned,Churned
+3153,Not Churned,Not Churned
+6763,Not Churned,Not Churned
+1763,Not Churned,Not Churned
+2036,Not Churned,Churned
+564,Not Churned,Churned
+4696,Not Churned,Churned
+1260,Not Churned,Not Churned
+6708,Churned,Churned
+6952,Not Churned,Not Churned
+825,Not Churned,Not Churned
+4088,Not Churned,Not Churned
+4274,Not Churned,Not Churned
+6448,Not Churned,Churned
+2603,Not Churned,Not Churned
+2298,Not Churned,Not Churned
+414,Churned,Churned
+1860,Churned,Churned
+3622,Not Churned,Not Churned
+3354,Not Churned,Not Churned
+5840,Not Churned,Not Churned
+2532,Churned,Churned
+1574,Not Churned,Not Churned
+2943,Not Churned,Not Churned
+2378,Not Churned,Not Churned
+1859,Not Churned,Not Churned
+1073,Churned,Churned
+6232,Not Churned,Not Churned
+664,Not Churned,Not Churned
+3707,Not Churned,Not Churned
+2838,Not Churned,Not Churned
+5754,Not Churned,Churned
+1046,Not Churned,Not Churned
+6895,Not Churned,Not Churned
+5371,Not Churned,Not Churned
+434,Churned,Churned
+349,Not Churned,Not Churned
+4326,Not Churned,Churned
+3150,Not Churned,Not Churned
+5412,Not Churned,Not Churned
+1394,Not Churned,Churned
+997,Not Churned,Not Churned
+687,Not Churned,Not Churned
+360,Not Churned,Not Churned
+4555,Not Churned,Not Churned
+4098,Not Churned,Not Churned
+3453,Churned,Churned
+1700,Not Churned,Churned
+869,Churned,Churned
+4072,Churned,Not Churned
+657,Not Churned,Not Churned
+1710,Not Churned,Not Churned
+3698,Churned,Churned
+6973,Not Churned,Churned
+4049,Not Churned,Not Churned
+1891,Not Churned,Not Churned
+3933,Not Churned,Churned
+2350,Not Churned,Not Churned
+6752,Not Churned,Not Churned
+4491,Not Churned,Not Churned
+3157,Not Churned,Not Churned
+5031,Churned,Churned
+4213,Churned,Not Churned
+943,Churned,Churned
+4694,Not Churned,Not Churned
+102,Not Churned,Not Churned
+1400,Not Churned,Not Churned
+4171,Not Churned,Not Churned
+2129,Not Churned,Churned
+1657,Not Churned,Not Churned
+6321,Not Churned,Not Churned
+3854,Churned,Churned
+4358,Churned,Churned
+6443,Not Churned,Not Churned
+2304,Not Churned,Not Churned
+3441,Not Churned,Not Churned
+6646,Churned,Churned
+4540,Churned,Churned
+6055,Churned,Not Churned
+6272,Not Churned,Not Churned
+603,Churned,Not Churned
+4736,Not Churned,Not Churned
+6089,Churned,Not Churned
+1364,Not Churned,Not Churned
+1857,Not Churned,Not Churned
+2736,Not Churned,Not Churned
+4546,Not Churned,Not Churned
+2531,Not Churned,Not Churned
+3969,Churned,Churned
+5033,Not Churned,Churned
+1034,Not Churned,Not Churned
+3610,Not Churned,Not Churned
+477,Not Churned,Churned
+4712,Not Churned,Churned
+2961,Churned,Churned
+1481,Churned,Churned
+975,Not Churned,Not Churned
+4630,Not Churned,Not Churned
+321,Not Churned,Not Churned
+6731,Churned,Not Churned
+924,Churned,Churned
+2723,Not Churned,Not Churned
+817,Not Churned,Not Churned
+158,Not Churned,Churned
+6441,Churned,Churned
+228,Churned,Churned
+2439,Churned,Churned
+2916,Churned,Churned
+279,Not Churned,Churned
+1779,Not Churned,Churned
+823,Churned,Churned
+3383,Churned,Not Churned
+6296,Not Churned,Not Churned
+5449,Churned,Not Churned
+3841,Not Churned,Not Churned
+501,Not Churned,Not Churned
+6816,Not Churned,Not Churned
+6451,Not Churned,Not Churned
+3830,Not Churned,Churned
+6579,Not Churned,Not Churned
+3021,Not Churned,Not Churned
+1340,Not Churned,Not Churned
+1767,Not Churned,Churned
+3717,Not Churned,Not Churned
+6955,Churned,Churned
+5613,Not Churned,Not Churned
+1920,Not Churned,Not Churned
+1001,Churned,Not Churned
+6568,Not Churned,Not Churned
+5854,Not Churned,Not Churned
+5097,Not Churned,Not Churned
+6971,Churned,Churned
+1756,Churned,Churned
+5122,Not Churned,Not Churned
+2174,Not Churned,Not Churned
+6106,Not Churned,Churned
+5027,Churned,Churned
+1451,Not Churned,Not Churned
+6668,Not Churned,Not Churned
+6770,Churned,Churned
+68,Not Churned,Not Churned
+475,Churned,Not Churned
+83,Not Churned,Not Churned
+4807,Not Churned,Not Churned
+5123,Churned,Not Churned
+1854,Churned,Churned
+6692,Not Churned,Churned
+4230,Not Churned,Churned
+220,Not Churned,Not Churned
+5661,Not Churned,Not Churned
+1257,Not Churned,Not Churned
+4588,Churned,Churned
+2020,Not Churned,Not Churned
+1465,Not Churned,Not Churned
+3511,Not Churned,Not Churned
+511,Not Churned,Not Churned
+6552,Churned,Churned
+3908,Churned,Churned
+5427,Not Churned,Not Churned
+2989,Churned,Churned
+3755,Churned,Not Churned
+4698,Not Churned,Not Churned
+463,Not Churned,Not Churned
+6077,Churned,Churned
+6699,Not Churned,Not Churned
+3547,Churned,Churned
+1160,Churned,Churned
+2959,Not Churned,Not Churned
+3826,Churned,Churned
+22,Not Churned,Churned
+5468,Churned,Not Churned
+4719,Not Churned,Not Churned
+1094,Not Churned,Not Churned
+2449,Not Churned,Not Churned
+6187,Not Churned,Not Churned
+785,Not Churned,Churned
+4126,Churned,Churned
+920,Not Churned,Not Churned
+5477,Not Churned,Not Churned
+940,Not Churned,Churned
+3819,Not Churned,Churned
+6713,Not Churned,Not Churned
+701,Not Churned,Churned
+6142,Not Churned,Churned
+3432,Not Churned,Not Churned
+2719,Churned,Churned
+4941,Churned,Churned
+906,Churned,Churned
+4933,Churned,Churned
+747,Not Churned,Not Churned
+3465,Churned,Churned
+5370,Churned,Churned
+1687,Churned,Churned
+552,Not Churned,Not Churned
+2512,Not Churned,Churned
+483,Not Churned,Not Churned
+447,Not Churned,Not Churned
+2299,Not Churned,Not Churned
+2409,Not Churned,Not Churned
+4579,Not Churned,Not Churned
+3024,Not Churned,Churned
+1843,Not Churned,Not Churned
+3439,Not Churned,Not Churned
+4915,Not Churned,Not Churned
+3685,Not Churned,Not Churned
+5514,Not Churned,Not Churned
+4398,Not Churned,Not Churned
+4519,Not Churned,Not Churned
+1266,Not Churned,Churned
+6291,Not Churned,Not Churned
+154,Not Churned,Not Churned
+3587,Not Churned,Not Churned
+3723,Churned,Not Churned
+3074,Not Churned,Not Churned
+2845,Not Churned,Churned
+21,Churned,Churned
+683,Churned,Churned
+6517,Churned,Not Churned
+4054,Not Churned,Not Churned
+1068,Not Churned,Not Churned
+6381,Not Churned,Not Churned
+2690,Not Churned,Not Churned
+6390,Not Churned,Churned
+5606,Churned,Churned
+6212,Not Churned,Not Churned
+4338,Churned,Not Churned
+2738,Not Churned,Not Churned
+3728,Not Churned,Not Churned
+6356,Not Churned,Not Churned
+2693,Not Churned,Not Churned
+3783,Not Churned,Not Churned
+4024,Churned,Churned
+5694,Not Churned,Not Churned
+812,Churned,Churned
+4787,Not Churned,Not Churned
+3108,Not Churned,Not Churned
+1814,Not Churned,Not Churned
+2714,Not Churned,Not Churned
+5739,Not Churned,Not Churned
+5265,Not Churned,Churned
+3751,Not Churned,Not Churned
+1174,Not Churned,Not Churned
+5624,Not Churned,Not Churned
+6885,Not Churned,Not Churned
+6553,Not Churned,Not Churned
+110,Churned,Churned
+2527,Not Churned,Not Churned
+2235,Not Churned,Not Churned
+2680,Churned,Not Churned
+1123,Not Churned,Not Churned
+383,Not Churned,Churned
+1366,Churned,Churned
+6257,Churned,Churned
+6869,Not Churned,Churned
+5676,Not Churned,Not Churned
+5769,Churned,Churned
+1253,Not Churned,Not Churned
+6051,Not Churned,Not Churned
+5961,Not Churned,Not Churned
+5958,Not Churned,Not Churned
+4628,Not Churned,Not Churned
+2007,Not Churned,Not Churned
+2520,Not Churned,Churned
+6645,Not Churned,Not Churned
+1460,Not Churned,Not Churned
+3886,Not Churned,Not Churned
+5496,Churned,Churned
+2939,Churned,Churned
+1162,Not Churned,Churned
+417,Churned,Not Churned
+4294,Not Churned,Churned
+3606,Not Churned,Churned
+6468,Not Churned,Not Churned
+2990,Churned,Churned
+3607,Not Churned,Not Churned
+6864,Not Churned,Churned
+6676,Not Churned,Not Churned
+2790,Not Churned,Churned
+3476,Churned,Not Churned
+4996,Not Churned,Not Churned
+3379,Not Churned,Churned
+4852,Churned,Churned
+3292,Churned,Churned
+589,Churned,Not Churned
+2514,Not Churned,Not Churned
+4278,Not Churned,Not Churned
+5759,Not Churned,Not Churned
+2804,Churned,Churned
+3136,Not Churned,Not Churned
+2776,Not Churned,Not Churned
+4842,Not Churned,Not Churned
+7025,Not Churned,Not Churned
+3022,Not Churned,Churned
+3615,Not Churned,Churned
+4334,Not Churned,Not Churned
+3655,Churned,Churned
+3158,Churned,Churned
+169,Not Churned,Not Churned
+2900,Not Churned,Churned
+1557,Not Churned,Not Churned
+5866,Churned,Churned
+6417,Not Churned,Churned
+4199,Not Churned,Not Churned
+6901,Not Churned,Not Churned
+6979,Not Churned,Not Churned
+5465,Not Churned,Not Churned
+5111,Not Churned,Not Churned
+955,Not Churned,Not Churned
+5170,Not Churned,Not Churned
+3754,Churned,Churned
+3461,Not Churned,Not Churned
+2675,Not Churned,Churned
+3588,Churned,Churned
+4796,Not Churned,Not Churned
+6249,Churned,Churned
+4448,Not Churned,Not Churned
+2954,Not Churned,Not Churned
+5641,Not Churned,Churned
+1745,Not Churned,Churned
+888,Not Churned,Churned
+730,Not Churned,Churned
+3752,Churned,Churned
+1304,Not Churned,Churned
+2596,Not Churned,Not Churned
+2812,Not Churned,Not Churned
+1780,Not Churned,Churned
+2667,Churned,Churned
+4120,Not Churned,Not Churned
+1591,Not Churned,Not Churned
+5602,Not Churned,Churned
+2355,Not Churned,Not Churned
+418,Not Churned,Not Churned
+2972,Churned,Churned
+168,Not Churned,Not Churned
+3695,Churned,Not Churned
+3471,Churned,Churned
+3815,Not Churned,Churned
+6651,Churned,Churned
+2928,Not Churned,Churned
+6753,Not Churned,Not Churned
+4327,Not Churned,Not Churned
+3520,Not Churned,Not Churned
+6882,Not Churned,Not Churned
+3835,Not Churned,Churned
+2633,Not Churned,Not Churned
+1890,Not Churned,Churned
+3043,Not Churned,Not Churned
+6206,Not Churned,Churned
+3720,Not Churned,Not Churned
+4901,Not Churned,Not Churned
+1122,Not Churned,Churned
+5600,Churned,Churned
+2377,Not Churned,Not Churned
+5681,Not Churned,Not Churned
+2443,Churned,Churned
+4773,Not Churned,Not Churned
+64,Churned,Churned
+1993,Not Churned,Not Churned
+636,Not Churned,Not Churned
+2318,Not Churned,Not Churned
+6804,Not Churned,Churned
+4995,Not Churned,Not Churned
+872,Not Churned,Not Churned
+3781,Not Churned,Not Churned
+116,Churned,Not Churned
+4479,Not Churned,Not Churned
+4471,Churned,Churned
+3366,Churned,Churned
+2914,Churned,Churned
+3974,Not Churned,Not Churned
+4932,Not Churned,Not Churned
+3718,Churned,Churned
+272,Not Churned,Not Churned
+4934,Not Churned,Not Churned
+6904,Not Churned,Not Churned
+191,Not Churned,Not Churned
+6250,Not Churned,Not Churned
+3372,Not Churned,Not Churned
+1808,Not Churned,Not Churned
+3217,Churned,Churned
+1529,Not Churned,Not Churned
+4508,Not Churned,Not Churned
+4733,Churned,Churned
+3305,Not Churned,Not Churned
+3035,Not Churned,Not Churned
+2133,Churned,Churned
+6655,Not Churned,Not Churned
+3917,Churned,Churned
+6673,Not Churned,Not Churned
+3773,Not Churned,Churned
+4019,Not Churned,Not Churned
+922,Not Churned,Not Churned
+4711,Churned,Not Churned
+132,Not Churned,Not Churned
+3546,Churned,Churned
+4247,Not Churned,Not Churned
+5269,Not Churned,Not Churned
+3761,Not Churned,Not Churned
+5155,Churned,Churned
+4079,Not Churned,Churned
+6526,Not Churned,Not Churned
+2241,Not Churned,Churned
+5469,Not Churned,Not Churned
+2880,Churned,Not Churned
+5673,Not Churned,Not Churned
+6601,Not Churned,Not Churned
+6453,Not Churned,Not Churned
+4045,Not Churned,Not Churned
+1903,Not Churned,Not Churned
+5356,Not Churned,Not Churned
+357,Churned,Churned
+3285,Not Churned,Churned
+6045,Churned,Churned
+4943,Churned,Churned
+286,Not Churned,Not Churned
+3997,Not Churned,Not Churned
+5078,Not Churned,Not Churned
+2586,Not Churned,Not Churned
+6357,Churned,Churned
+2472,Not Churned,Not Churned
+4679,Churned,Churned
+3475,Not Churned,Not Churned
+4412,Not Churned,Churned
+1776,Not Churned,Not Churned
+2530,Not Churned,Not Churned
+4016,Not Churned,Not Churned
+749,Not Churned,Not Churned
+3414,Not Churned,Not Churned
+1110,Churned,Churned
+4697,Not Churned,Not Churned
+1705,Not Churned,Not Churned
+2480,Not Churned,Not Churned
+3203,Churned,Churned
+5198,Not Churned,Churned
+1998,Churned,Not Churned
+278,Not Churned,Churned
+1224,Not Churned,Not Churned
+2792,Not Churned,Not Churned
+3874,Not Churned,Not Churned
+2576,Not Churned,Not Churned
+5174,Not Churned,Not Churned
+4589,Not Churned,Not Churned
+1804,Churned,Churned
+3770,Not Churned,Not Churned
+1133,Not Churned,Not Churned
+2982,Churned,Churned
+5742,Churned,Churned
+6029,Not Churned,Not Churned
+3360,Churned,Churned
+4472,Churned,Not Churned
+5151,Not Churned,Churned
+7024,Not Churned,Not Churned
+4200,Churned,Churned
+6991,Not Churned,Churned
+5485,Not Churned,Not Churned
+6627,Not Churned,Not Churned
+5868,Not Churned,Not Churned
+2200,Not Churned,Not Churned
+1634,Not Churned,Not Churned
+4261,Churned,Not Churned
+5554,Not Churned,Not Churned
+5771,Churned,Churned
+7002,Not Churned,Churned
+1833,Churned,Churned
+4152,Not Churned,Not Churned
+5436,Not Churned,Not Churned
+6136,Not Churned,Churned
+4664,Not Churned,Not Churned
+2842,Not Churned,Not Churned
+2818,Churned,Churned
+4808,Not Churned,Not Churned
+3214,Not Churned,Not Churned
+3123,Not Churned,Churned
+582,Not Churned,Not Churned
+731,Not Churned,Churned
+5828,Not Churned,Not Churned
+3104,Not Churned,Churned
+3710,Not Churned,Not Churned
+5718,Churned,Churned
+1306,Not Churned,Not Churned
+2541,Not Churned,Not Churned
+6388,Not Churned,Churned
+2280,Not Churned,Not Churned
+3692,Not Churned,Not Churned
+6211,Not Churned,Not Churned
+4500,Churned,Churned
+4404,Churned,Churned
+3947,Churned,Churned
+3258,Churned,Churned
+2186,Churned,Churned
+5930,Not Churned,Not Churned
+2485,Not Churned,Not Churned
+7006,Churned,Churned
+2240,Not Churned,Not Churned
+3016,Not Churned,Not Churned
+539,Not Churned,Not Churned
+4170,Churned,Churned
+6960,Not Churned,Churned
+1579,Churned,Not Churned
+2591,Not Churned,Not Churned
+1619,Churned,Churned
+3004,Not Churned,Churned
+6609,Not Churned,Not Churned
+2819,Not Churned,Churned
+6818,Churned,Churned
+3531,Not Churned,Not Churned
+6335,Not Churned,Not Churned
+728,Not Churned,Not Churned
+4758,Not Churned,Not Churned
+5700,Not Churned,Churned
+3690,Not Churned,Not Churned
+5672,Not Churned,Not Churned
+6341,Not Churned,Churned
+5158,Not Churned,Not Churned
+3198,Not Churned,Churned
+6956,Not Churned,Not Churned
+2802,Not Churned,Not Churned
+4270,Churned,Churned
+6307,Churned,Not Churned
+6279,Not Churned,Not Churned
+390,Not Churned,Churned
+2702,Not Churned,Not Churned
+2831,Not Churned,Not Churned
+5517,Not Churned,Not Churned
+6052,Not Churned,Not Churned
+6245,Churned,Churned
+1791,Not Churned,Not Churned
+3797,Not Churned,Churned
+2362,Not Churned,Not Churned
+5576,Not Churned,Not Churned
+3090,Churned,Churned
+2906,Not Churned,Not Churned
+2187,Not Churned,Not Churned
+4099,Not Churned,Not Churned
+4891,Churned,Churned
+3954,Churned,Churned
+4735,Not Churned,Not Churned
+5223,Not Churned,Churned
+3767,Not Churned,Not Churned
+2817,Not Churned,Not Churned
+6974,Not Churned,Not Churned
+2631,Not Churned,Not Churned
+5570,Not Churned,Churned
+4282,Churned,Churned
+887,Not Churned,Not Churned
+4130,Churned,Churned
+3864,Not Churned,Churned
+2411,Not Churned,Not Churned
+3963,Not Churned,Churned
+3456,Not Churned,Not Churned
+2844,Not Churned,Churned
+3956,Not Churned,Not Churned
+982,Not Churned,Churned
+1483,Not Churned,Not Churned
+1056,Not Churned,Not Churned
+4635,Not Churned,Churned
+1535,Not Churned,Not Churned
+3048,Churned,Not Churned
+6460,Not Churned,Not Churned
+4574,Not Churned,Not Churned
+2047,Not Churned,Not Churned
+4657,Not Churned,Not Churned
+4533,Churned,Churned
+1572,Not Churned,Not Churned
+4422,Not Churned,Not Churned
+2734,Not Churned,Not Churned
+263,Not Churned,Not Churned
+4885,Not Churned,Not Churned
+4577,Not Churned,Churned
+4298,Not Churned,Not Churned
+3739,Not Churned,Not Churned
+2789,Not Churned,Churned
+1348,Churned,Churned
+1357,Not Churned,Churned
+6202,Not Churned,Not Churned
+1967,Not Churned,Not Churned
+1452,Not Churned,Churned
+1480,Not Churned,Not Churned
+6947,Churned,Churned
+2467,Not Churned,Not Churned
+2225,Not Churned,Not Churned
+6147,Not Churned,Churned
+1344,Not Churned,Not Churned
+2363,Churned,Churned
+6409,Not Churned,Not Churned
+547,Not Churned,Not Churned
+5869,Not Churned,Not Churned
+3561,Churned,Churned
+3512,Not Churned,Not Churned
+5850,Not Churned,Not Churned
+6787,Not Churned,Not Churned
+4203,Not Churned,Not Churned
+2991,Not Churned,Churned
+5399,Not Churned,Not Churned
+1328,Churned,Churned
+4603,Not Churned,Churned
+876,Churned,Churned
+6458,Not Churned,Not Churned
+4226,Not Churned,Not Churned
+5617,Churned,Churned
+844,Not Churned,Not Churned
+4912,Not Churned,Not Churned
+5732,Churned,Churned
+5820,Not Churned,Not Churned
+4283,Churned,Churned
+6786,Not Churned,Churned
+1887,Not Churned,Not Churned
+43,Not Churned,Not Churned
+2258,Not Churned,Not Churned
+2462,Not Churned,Not Churned
+3554,Not Churned,Churned
+3990,Not Churned,Churned
+6828,Not Churned,Churned
+6726,Not Churned,Not Churned
+4937,Not Churned,Not Churned
+1204,Not Churned,Churned
+4636,Churned,Churned
+5461,Not Churned,Not Churned
+4460,Not Churned,Not Churned
+4582,Not Churned,Churned
+3256,Not Churned,Not Churned
+5692,Churned,Churned
+4441,Not Churned,Not Churned
+1197,Not Churned,Churned
+6678,Not Churned,Not Churned
+778,Not Churned,Not Churned
+7039,Churned,Churned
+4355,Not Churned,Not Churned
+3230,Churned,Not Churned
+1167,Not Churned,Not Churned
+5068,Not Churned,Churned
+5022,Churned,Not Churned
+3645,Not Churned,Churned
+6397,Not Churned,Not Churned
+3490,Not Churned,Churned
+5266,Not Churned,Not Churned
+3995,Not Churned,Churned
+4195,Churned,Churned
+5440,Churned,Churned
+2230,Churned,Not Churned
+4387,Not Churned,Not Churned
+4650,Not Churned,Not Churned
+3805,Not Churned,Churned
+574,Not Churned,Not Churned
+5494,Not Churned,Not Churned
+1573,Not Churned,Not Churned
+2958,Not Churned,Churned
+4424,Churned,Churned
+2656,Not Churned,Not Churned
+1736,Not Churned,Not Churned
+4514,Not Churned,Not Churned
+1735,Not Churned,Churned
+6173,Not Churned,Churned
+654,Not Churned,Churned
+2428,Churned,Churned
+2120,Churned,Churned
+2984,Churned,Churned
+3986,Not Churned,Not Churned
+6487,Churned,Churned
+4318,Not Churned,Churned
+4380,Not Churned,Not Churned
+5104,Not Churned,Not Churned
+227,Not Churned,Not Churned
+3286,Not Churned,Not Churned
+280,Not Churned,Not Churned
+82,Churned,Churned
+467,Not Churned,Not Churned
+4908,Not Churned,Churned
+6610,Not Churned,Not Churned
+3255,Not Churned,Not Churned
+2823,Not Churned,Not Churned
+466,Churned,Churned
+5455,Not Churned,Not Churned
+2909,Churned,Not Churned
+984,Not Churned,Not Churned
+2953,Churned,Not Churned
+6853,Churned,Churned
+2698,Churned,Churned
+4366,Not Churned,Not Churned
+4627,Churned,Churned
+1691,Not Churned,Not Churned
+5782,Not Churned,Not Churned
+4433,Not Churned,Not Churned
+6621,Churned,Churned
+575,Churned,Churned
+2762,Not Churned,Churned
+4673,Churned,Churned
+6114,Not Churned,Not Churned
+2071,Churned,Churned
+5023,Churned,Churned
+6887,Not Churned,Churned
+4729,Not Churned,Churned
+2526,Not Churned,Not Churned
+5228,Churned,Churned
+6208,Not Churned,Not Churned
+261,Churned,Churned
+6642,Churned,Churned
+1353,Churned,Churned
+5304,Churned,Churned
+4140,Not Churned,Churned
+222,Not Churned,Not Churned
+1361,Churned,Churned
+6280,Churned,Churned
+5320,Not Churned,Not Churned
+4076,Not Churned,Not Churned
+2308,Not Churned,Not Churned
+1703,Not Churned,Not Churned
+260,Not Churned,Not Churned
+6440,Not Churned,Churned
+5589,Not Churned,Not Churned
+6310,Not Churned,Not Churned
+4476,Churned,Churned
+5716,Not Churned,Not Churned
+2566,Churned,Churned
+3067,Not Churned,Churned
+178,Not Churned,Not Churned
+1095,Churned,Churned
+2813,Not Churned,Churned
+4799,Not Churned,Not Churned
+1421,Churned,Not Churned
+1433,Not Churned,Not Churned
+175,Not Churned,Not Churned
+5905,Not Churned,Churned
+2089,Not Churned,Not Churned
+682,Churned,Not Churned
+6382,Not Churned,Not Churned
+1062,Churned,Churned
+5735,Not Churned,Churned
+4640,Not Churned,Not Churned
+3371,Not Churned,Not Churned
+1409,Not Churned,Churned
+1316,Not Churned,Not Churned
+5259,Not Churned,Not Churned
+4732,Not Churned,Not Churned
+6471,Not Churned,Not Churned
+507,Churned,Churned
+667,Not Churned,Not Churned
+1387,Not Churned,Not Churned
+1737,Churned,Churned
+3545,Not Churned,Not Churned
+6684,Not Churned,Not Churned
+2153,Not Churned,Not Churned
+1229,Not Churned,Not Churned
+4819,Churned,Not Churned
+5984,Not Churned,Not Churned
+2710,Not Churned,Not Churned
+2309,Not Churned,Not Churned
+2694,Not Churned,Not Churned
+6697,Not Churned,Not Churned
+1740,Churned,Not Churned
+2799,Not Churned,Not Churned
+3105,Not Churned,Not Churned
+3530,Not Churned,Not Churned
+972,Not Churned,Not Churned
+963,Churned,Churned
+1593,Churned,Churned
+4740,Not Churned,Not Churned
+681,Not Churned,Not Churned
+3541,Not Churned,Not Churned
+6819,Churned,Churned
+2038,Not Churned,Churned
+1042,Churned,Churned
+2870,Churned,Not Churned
+5093,Not Churned,Not Churned
+4803,Not Churned,Not Churned
+6618,Not Churned,Not Churned
+1299,Not Churned,Not Churned
+4839,Churned,Churned
+5504,Not Churned,Not Churned
+4724,Not Churned,Churned
+4561,Not Churned,Churned
+131,Churned,Churned
+5152,Not Churned,Not Churned
+6497,Not Churned,Churned
+2590,Churned,Churned
+308,Not Churned,Churned
+2323,Not Churned,Churned
+4339,Not Churned,Not Churned
+4998,Not Churned,Not Churned
+6131,Not Churned,Not Churned
+6164,Not Churned,Churned
+1309,Not Churned,Churned
+6910,Not Churned,Not Churned
+1754,Not Churned,Not Churned
+1587,Not Churned,Not Churned
+5685,Churned,Churned
+2451,Not Churned,Not Churned
+6371,Not Churned,Churned
+5972,Churned,Churned
+1225,Not Churned,Not Churned
+1719,Churned,Churned
+3579,Not Churned,Not Churned
+1659,Churned,Churned
+5885,Not Churned,Churned
+5792,Not Churned,Not Churned
+6008,Churned,Churned
+4206,Not Churned,Not Churned
+2371,Churned,Churned
+328,Not Churned,Not Churned
+6561,Not Churned,Churned
+3584,Not Churned,Churned
+6524,Not Churned,Not Churned
+527,Not Churned,Not Churned
+1140,Not Churned,Not Churned
+5733,Not Churned,Not Churned
+1848,Churned,Churned
+5625,Not Churned,Not Churned
+2166,Not Churned,Not Churned
+1408,Churned,Churned
+4614,Not Churned,Not Churned
+5373,Not Churned,Churned
+1838,Not Churned,Churned
+6201,Churned,Churned
+2090,Not Churned,Not Churned
+3438,Churned,Not Churned
+491,Churned,Churned
+6188,Not Churned,Not Churned
+6984,Not Churned,Churned
+5051,Not Churned,Not Churned
+2254,Not Churned,Not Churned
+88,Not Churned,Not Churned
+1782,Not Churned,Not Churned
+600,Churned,Churned
+3942,Not Churned,Not Churned
+2119,Churned,Churned
+5730,Not Churned,Not Churned
+63,Churned,Not Churned
+1709,Churned,Churned
+4359,Not Churned,Churned
+329,Not Churned,Not Churned
+837,Churned,Not Churned
+6944,Not Churned,Not Churned
+1454,Not Churned,Not Churned
+653,Not Churned,Not Churned
+5310,Not Churned,Not Churned
+2217,Not Churned,Not Churned
+5163,Not Churned,Not Churned
+1186,Not Churned,Churned
+2678,Churned,Churned
+3096,Not Churned,Not Churned
+2024,Not Churned,Churned
+5890,Not Churned,Not Churned
+543,Not Churned,Not Churned
+6584,Not Churned,Churned
+990,Not Churned,Not Churned
+6,Not Churned,Not Churned
+4542,Not Churned,Not Churned
+2159,Churned,Churned
+2903,Not Churned,Not Churned
+3194,Not Churned,Not Churned
+6178,Not Churned,Not Churned
+6141,Not Churned,Churned
+3365,Churned,Not Churned
+2495,Not Churned,Not Churned
+1136,Not Churned,Churned
+2016,Not Churned,Not Churned
+6962,Churned,Churned
+2502,Not Churned,Not Churned
+1886,Churned,Churned
+3704,Not Churned,Churned
+2782,Churned,Churned
+6555,Not Churned,Not Churned
+2197,Not Churned,Not Churned
+4655,Not Churned,Churned
+877,Not Churned,Not Churned
+5510,Churned,Churned
+6127,Not Churned,Churned
+4942,Not Churned,Not Churned
+835,Not Churned,Not Churned
+5662,Churned,Churned
+4988,Not Churned,Not Churned
+503,Churned,Not Churned
+1372,Churned,Churned
+1475,Not Churned,Not Churned
+4777,Not Churned,Not Churned
+1555,Not Churned,Churned
+1708,Churned,Churned
+5300,Churned,Churned
+4237,Not Churned,Not Churned
+4027,Not Churned,Not Churned
+2800,Not Churned,Not Churned
+5907,Not Churned,Not Churned
+1830,Not Churned,Churned
+5166,Not Churned,Not Churned
+4840,Churned,Churned
+173,Churned,Not Churned
+4065,Not Churned,Not Churned
+976,Not Churned,Not Churned
+1134,Not Churned,Churned
+1578,Not Churned,Not Churned
+3344,Churned,Churned
+2246,Not Churned,Not Churned
+6480,Not Churned,Not Churned
+954,Not Churned,Not Churned
+4497,Not Churned,Not Churned
+4386,Not Churned,Churned
+3429,Not Churned,Not Churned
+4637,Not Churned,Not Churned
+1300,Not Churned,Churned
+513,Churned,Churned
+435,Churned,Not Churned
+69,Not Churned,Churned
+2106,Not Churned,Not Churned
+4001,Not Churned,Churned
+5558,Churned,Churned
+6329,Not Churned,Not Churned
+4757,Not Churned,Not Churned
+4846,Not Churned,Churned
+6810,Not Churned,Churned
+3525,Not Churned,Not Churned
+533,Not Churned,Not Churned
+6521,Churned,Churned
+519,Churned,Churned
+3897,Not Churned,Not Churned
+6843,Not Churned,Churned
+3507,Churned,Churned
+5386,Churned,Churned
+75,Churned,Churned
+4427,Not Churned,Churned
+4311,Not Churned,Not Churned
+1638,Not Churned,Not Churned
+2525,Not Churned,Not Churned
+3539,Not Churned,Churned
+1435,Churned,Not Churned
+1057,Not Churned,Not Churned
+3829,Not Churned,Not Churned
+3550,Churned,Not Churned
+6631,Not Churned,Not Churned
+6271,Not Churned,Not Churned
+3927,Not Churned,Not Churned
+341,Not Churned,Not Churned
+2824,Churned,Not Churned
+6437,Not Churned,Not Churned
+6422,Not Churned,Churned
+4290,Not Churned,Not Churned
+1742,Not Churned,Not Churned
+5120,Not Churned,Not Churned
+1388,Churned,Churned
+4825,Not Churned,Churned
+153,Not Churned,Not Churned
+4775,Not Churned,Not Churned
+3760,Not Churned,Not Churned
+5191,Not Churned,Not Churned
+4510,Not Churned,Churned
+3910,Not Churned,Churned
+4820,Not Churned,Not Churned
+5658,Not Churned,Not Churned
